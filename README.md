@@ -1,6 +1,39 @@
+# AJAX + APIs
+
+## Introduction
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+"Our short online course, aimed at beginners, is designed for people who want to work with APIs (how different websites talk to each other) and Ajax (one way of grabbing and sending that data) together to make remixed projects." - taken from [SuperHi](https://superhi.com)'s short description of the course.
+
+Each project is created as a separate React Component held in the `Pages/` directory and is a separate lesson covering important ajax and or api fundamentals when creating an application. Check their descriptions below for an deeper understanding.
+
+### Learning Objectives
+
+During the course I reinforced:
+
+- How to work with my own data and external data sources
+- Making sites that use services like [Figma](https://Figma.com), [Instagram](https://Instagram.com), [Contentful](https://Contentful.com), to make data-driven sites
+- How to work with sites without APIs through web scraping.
+- 
+- Add in subtle and not-so-subtle parallax effects to web designs
+- Confidence in web design decisions.
+
+## Projects
+
+### Plant Life
+
+Plant Life is an extremely basic online shop for people who need plants. Currently there is a menu that renders FIVE (5) pages. The Home page features a product set at a cost of $599. The product images separate at random on mouseover and retract to and orderly stack on mouseout. This project makes use of React refs as well as React class based Components instead of Hooks to handle a bug where the menu stays open once you navigate to a page. Additionally, it uses ES6 arrow functions to handle most of the interactivity on the page.
+
+### Type Checker
+
+### Jenna Buchholz
+
+### Brux
+
+### Words of Womxn
+
+## Getting Started: Development
 
 In the project directory, you can run:
 
@@ -36,33 +69,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
