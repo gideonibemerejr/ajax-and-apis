@@ -1,4 +1,4 @@
-# AJAX + APIs
+# Ajax + APIs
 
 ## Introduction
 
