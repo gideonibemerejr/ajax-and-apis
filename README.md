@@ -21,7 +21,37 @@ During the course I reinforced:
 
 ## Projects
 
-### 
+### Design Knowledge
+
+In the first project, we'll talk about what is Ajax, what are APIs and what is asynchronous Javascript, and use all these techniques to grab data from a third-party source to display designer quotes.
+
+### Coin Price
+
+In the first project, we'll talk about what is Ajax, what are APIs and what is asynchronous Javascript, and use all these techniques to grab data from a third-party source to display designer quotes.
+
+### Uova
+
+Sometimes a self-built CMS can feel overkill, so on this project we set up with Contentful to get JSON data from their CMS's API to display on our restaurant site.
+
+### Unsplash Search
+
+Sometimes a self-built CMS can feel overkill, so on this project we set up with Contentful to get JSON data from their CMS's API to display on our restaurant site.
+
+### Figure
+
+Sometimes a self-built CMS can feel overkill, so on this project we set up with Contentful to get JSON data from their CMS's API to display on our restaurant site.
+
+### Instafeed
+
+Sometimes a self-built CMS can feel overkill, so on this project we set up with Contentful to get JSON data from their CMS's API to display on our restaurant site.
+
+### Pitchfork Scraper
+
+Sometimes a self-built CMS can feel overkill, so on this project we set up with Contentful to get JSON data from their CMS's API to display on our restaurant site.
+
+### Minimal Twitter
+
+You may have seen sites that have 'Login with...' or 'Sign up with...' – in this project we'll talk about how to sign up with Twitter to our own site, then use those details to make a minimal version of Twitter.
 
 ## Getting Started: Development
 
