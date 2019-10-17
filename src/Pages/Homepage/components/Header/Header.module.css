@@ -1,19 +1,11 @@
 .header {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  background-image: url(./assets/header.svg);
-  background-size: auto;
-  background-repeat: no-repeat;
-  background-position: right;
 }
 
 .nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 1rem 1rem;
+  padding: 2rem 2rem;
   height: 5vh;
 }
 
@@ -31,4 +23,11 @@
 .link {
   text-decoration: none;
   color: #000;
+}
+
+.link:hover {
+  color: #9b51e0;
+  text-decoration: none;
+  border-bottom: 2px solid #9b51e0;
+  transition: color 0.5s;
 }
