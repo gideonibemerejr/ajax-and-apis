@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { Circle } from '../../Components'
+import { Header } from './components'
 import data from './data'
 
 import styles from './HomePage.module.css'
@@ -10,11 +10,7 @@ const HomePage = () => {
 
   console.log(Link)
 
-  return (
-    <div className={styles.header}>
-      <Circle />
-    </div>
-  )
+  return <Header />
 }
 
 export default HomePage

@@ -10,11 +10,11 @@ const IceBox = () => {
           <nav>
             <ul>
               <li>
-                <Link to='/'>Back to JS For Designers</Link>
+                <Link to='/'>Back to Ajax + APIs</Link>
               </li>
             </ul>
           </nav>
-          <h1>JS for Designers Ice Box</h1>
+          <h1>Ajax + APIs Ice Box</h1>
           <section>
             <article>
               <h2>What is an Ice Box?</h2>
@@ -42,11 +42,6 @@ const IceBox = () => {
             </li>
             <li>
               <p>Footer at the bottom with site navigation</p>
-            </li>
-            <li>
-              <p>
-                Add Full shop functionality with fake checkout to Plant Life
-              </p>
             </li>
           </ul>
         </section>

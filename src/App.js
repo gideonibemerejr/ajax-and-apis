@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 
-// TODO: import IceBox, DesignKnowledge, CoinPrice, Uova, UnsplashSearch, Figure, Instafeed, PitchforkScraper, MinimalTwitter
+// TODO: import DesignKnowledge, CoinPrice, Uova, UnsplashSearch, Figure, Instafeed, PitchforkScraper, MinimalTwitter
 
 import { HomePage, IceBox } from './Pages'
 
