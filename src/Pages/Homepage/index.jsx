@@ -10,7 +10,11 @@ const HomePage = () => {
 
   console.log(Link)
 
-  return <Header />
+  return (
+    <div className={styles.HomePage}>
+      <Header />
+    </div>
+  )
 }
 
 export default HomePage
