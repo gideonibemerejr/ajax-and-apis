@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 
 // TODO: import IceBox, DesignKnowledge, CoinPrice, Uova, UnsplashSearch, Figure, Instafeed, PitchforkScraper, MinimalTwitter
 
-import { HomePage } from './Pages'
+import { HomePage, IceBox } from './Pages'
 
 function App() {
   return (
@@ -11,7 +11,10 @@ function App() {
       <Switch>
         {/* Route to Home Page */}
         <Route exact path='/' component={HomePage} />
+
         {/* Route to Ice Box */}
+        <Route path='/icebox' component={IceBox} />
+
         {/* Route to Design Knowledge */}
         {/* Route to Coin Price */}
         {/* Route to Uova */}

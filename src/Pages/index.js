@@ -1,3 +1,4 @@
 import HomePage from './HomePage'
+import IceBox from './IceBox'
 
-export { HomePage }
+export { HomePage, IceBox }
