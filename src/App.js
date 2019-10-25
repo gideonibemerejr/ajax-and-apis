@@ -3,7 +3,8 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 
 // TODO: import DesignKnowledge, CoinPrice, Uova, UnsplashSearch, Figure, Instafeed, PitchforkScraper, MinimalTwitter
 
-import { HomePage, IceBox } from './Pages'
+import HomePage from './Pages/HomePage'
+import IceBox from './Pages/IceBox'
 
 function App() {
   return (

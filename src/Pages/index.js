@@ -1,4 +1,4 @@
-import HomePage from './HomePage/index'
+import HomePage from './HomePage'
 import IceBox from './IceBox'
 
 export { HomePage, IceBox }
